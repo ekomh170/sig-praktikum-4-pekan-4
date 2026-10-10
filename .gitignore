@@ -1,0 +1,11 @@
+# Windows / macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# File sementara Microsoft Office
+~$*
+
+# Laporan dan tangkapan layar tidak ikut di-push
+docs/
+screenshots/
